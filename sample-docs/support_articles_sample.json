@@ -1,0 +1,272 @@
+[
+  {
+    "articleId": "KB001",
+    "title": "Battery drains quickly after software update",
+    "product": "Mobile OS",
+    "category": "Battery",
+    "severity": "Medium",
+    "content": "After a software update, background sync and app re-indexing can temporarily increase battery usage. Ask the user to restart the phone, check battery usage by app, disable unused background refresh, and install pending app updates.",
+    "tags": ["battery", "software update", "background sync", "power usage"]
+  },
+  {
+    "articleId": "KB002",
+    "title": "Phone charges slowly with fast charger",
+    "product": "Mobile Hardware",
+    "category": "Charging",
+    "severity": "Medium",
+    "content": "Slow charging can happen when the cable does not support fast charging, the adapter wattage is too low, or the charging port has dust. Ask the user to test a certified cable, clean the port carefully, and verify fast charging is enabled.",
+    "tags": ["charging", "fast charging", "cable", "adapter"]
+  },
+  {
+    "articleId": "KB003",
+    "title": "5G signal drops indoors",
+    "product": "Network",
+    "category": "Connectivity",
+    "severity": "Low",
+    "content": "5G coverage can drop indoors because high-frequency bands are blocked by walls. Ask the user to check carrier coverage, switch airplane mode on and off, update carrier settings, and test LTE fallback.",
+    "tags": ["5G", "network", "signal", "connectivity"]
+  },
+  {
+    "articleId": "KB004",
+    "title": "Camera photos look blurry in low light",
+    "product": "Camera",
+    "category": "Camera",
+    "severity": "Low",
+    "content": "Blurry low-light photos are often caused by motion, dirty lenses, or aggressive digital zoom. Ask the user to clean the lens, hold the phone steady, use night mode, and avoid zooming in dark scenes.",
+    "tags": ["camera", "low light", "photos", "night mode"]
+  },
+  {
+    "articleId": "KB005",
+    "title": "Apps crash after opening",
+    "product": "Mobile Apps",
+    "category": "Apps",
+    "severity": "High",
+    "content": "App crashes can be caused by corrupted cache, incompatible app versions, or low storage. Ask the user to update the app, clear cache, restart the phone, and check available storage.",
+    "tags": ["apps", "crash", "cache", "storage"]
+  },
+  {
+    "articleId": "KB006",
+    "title": "Phone heats up during gaming",
+    "product": "Mobile Hardware",
+    "category": "Performance",
+    "severity": "Medium",
+    "content": "Gaming can heat the device because CPU, GPU, display, and network are active together. Ask the user to lower graphics settings, close background apps, remove thick cases, and avoid charging while gaming.",
+    "tags": ["gaming", "heating", "performance", "thermal"]
+  },
+  {
+    "articleId": "KB007",
+    "title": "Fingerprint unlock is not working",
+    "product": "Security",
+    "category": "Authentication",
+    "severity": "Medium",
+    "content": "Fingerprint unlock can fail because of wet fingers, screen protector issues, or corrupted biometric data. Ask the user to clean the sensor, remove and re-add fingerprints, and check for software updates.",
+    "tags": ["fingerprint", "unlock", "biometric", "security"]
+  },
+  {
+    "articleId": "KB008",
+    "title": "Face unlock fails in dark room",
+    "product": "Security",
+    "category": "Authentication",
+    "severity": "Low",
+    "content": "Face unlock may fail in low light if the device relies on the front camera. Ask the user to improve lighting, clean the front camera area, re-enroll face data, or use PIN/fingerprint fallback.",
+    "tags": ["face unlock", "low light", "authentication", "camera"]
+  },
+  {
+    "articleId": "KB009",
+    "title": "Wi-Fi connects but internet does not work",
+    "product": "Network",
+    "category": "Connectivity",
+    "severity": "High",
+    "content": "If Wi-Fi connects but internet is unavailable, the issue may be DNS, router, captive portal, or IP conflict. Ask the user to forget and reconnect to Wi-Fi, restart router, test another network, and reset network settings.",
+    "tags": ["wifi", "internet", "router", "dns"]
+  },
+  {
+    "articleId": "KB010",
+    "title": "Bluetooth earbuds disconnect frequently",
+    "product": "Accessories",
+    "category": "Bluetooth",
+    "severity": "Medium",
+    "content": "Frequent Bluetooth disconnections may be caused by low earbud battery, interference, old firmware, or pairing corruption. Ask the user to charge earbuds, forget and re-pair, update firmware, and test away from interference.",
+    "tags": ["bluetooth", "earbuds", "disconnect", "pairing"]
+  },
+  {
+    "articleId": "KB011",
+    "title": "Storage is full and phone is slow",
+    "product": "Mobile OS",
+    "category": "Storage",
+    "severity": "Medium",
+    "content": "Low storage can slow the phone and cause app failures. Ask the user to delete large videos, move photos to cloud storage, clear app cache, uninstall unused apps, and keep at least 10 percent storage free.",
+    "tags": ["storage", "slow phone", "cache", "cleanup"]
+  },
+  {
+    "articleId": "KB012",
+    "title": "Mobile data works but hotspot fails",
+    "product": "Network",
+    "category": "Hotspot",
+    "severity": "Medium",
+    "content": "Hotspot may fail because of carrier restrictions, data saver, incorrect APN, or device limit. Ask the user to check hotspot plan support, disable data saver, restart the phone, and verify APN settings.",
+    "tags": ["hotspot", "mobile data", "carrier", "apn"]
+  },
+  {
+    "articleId": "KB013",
+    "title": "Notifications are delayed",
+    "product": "Mobile Apps",
+    "category": "Notifications",
+    "severity": "Low",
+    "content": "Delayed notifications are often caused by battery optimization, data saver, or background restrictions. Ask the user to allow background activity, disable battery optimization for the app, and check notification permissions.",
+    "tags": ["notifications", "battery optimization", "background activity", "permissions"]
+  },
+  {
+    "articleId": "KB014",
+    "title": "Phone cannot install system update",
+    "product": "Mobile OS",
+    "category": "Updates",
+    "severity": "Medium",
+    "content": "System update installation can fail because of low battery, low storage, unstable Wi-Fi, or interrupted downloads. Ask the user to charge above 50 percent, free storage, use stable Wi-Fi, and retry the update.",
+    "tags": ["system update", "install failure", "storage", "wifi"]
+  },
+  {
+    "articleId": "KB015",
+    "title": "Call audio is not clear",
+    "product": "Voice",
+    "category": "Calls",
+    "severity": "High",
+    "content": "Poor call audio can be caused by network signal, blocked microphone, Bluetooth routing, or carrier issues. Ask the user to test speaker mode, clean microphone area, disconnect Bluetooth, and try another location.",
+    "tags": ["calls", "audio", "microphone", "network"]
+  },
+  {
+    "articleId": "KB016",
+    "title": "Screen touch is not responding properly",
+    "product": "Display",
+    "category": "Touch",
+    "severity": "High",
+    "content": "Touch issues can be caused by screen protectors, moisture, software freezes, or hardware damage. Ask the user to clean the screen, remove thick screen protectors, restart the phone, and test safe mode.",
+    "tags": ["touch", "screen", "display", "safe mode"]
+  },
+  {
+    "articleId": "KB017",
+    "title": "GPS location is inaccurate",
+    "product": "Location",
+    "category": "GPS",
+    "severity": "Low",
+    "content": "Location accuracy can be affected by indoor use, battery saver, denied permissions, or poor satellite visibility. Ask the user to enable high accuracy mode, check app permissions, and test outdoors.",
+    "tags": ["gps", "location", "permissions", "battery saver"]
+  },
+  {
+    "articleId": "KB018",
+    "title": "Payment app fails during checkout",
+    "product": "Payments",
+    "category": "Payments",
+    "severity": "High",
+    "content": "Payment failures can be caused by outdated app versions, network issues, disabled NFC, or bank authentication failures. Ask the user to update the app, check network, enable NFC, and retry bank verification.",
+    "tags": ["payments", "checkout", "nfc", "bank authentication"]
+  },
+  {
+    "articleId": "KB019",
+    "title": "Phone speaker volume is too low",
+    "product": "Mobile Hardware",
+    "category": "Audio",
+    "severity": "Low",
+    "content": "Low speaker volume can be caused by dirt in the speaker grille, software volume limits, or Do Not Disturb mode. Ask the user to clean the grille gently, check volume settings, disable DND, and test with headphones to isolate the issue.",
+    "tags": ["speaker", "volume", "audio", "do not disturb"]
+  },
+  {
+    "articleId": "KB020",
+    "title": "App does not open after install",
+    "product": "Mobile Apps",
+    "category": "Apps",
+    "severity": "Medium",
+    "content": "An app that fails to open after installation may have a corrupted download, missing permissions, or incompatible OS version. Ask the user to uninstall and reinstall the app, grant all required permissions, and verify the OS version meets requirements.",
+    "tags": ["app install", "permissions", "crash", "os version"]
+  },
+  {
+    "articleId": "KB021",
+    "title": "Phone restarts randomly",
+    "product": "Mobile OS",
+    "category": "Stability",
+    "severity": "High",
+    "content": "Random restarts can be caused by a faulty app, overheating, low battery health, or a software bug. Ask the user to boot in safe mode to isolate apps, check battery health, and update the OS.",
+    "tags": ["restart", "crash", "battery health", "safe mode"]
+  },
+  {
+    "articleId": "KB022",
+    "title": "SIM card not detected",
+    "product": "Mobile Hardware",
+    "category": "SIM",
+    "severity": "High",
+    "content": "A SIM not detected error may be caused by a loose SIM tray, dirty contacts, or a network issue. Ask the user to re-seat the SIM, clean the tray contacts, test another SIM if available, and check with the carrier.",
+    "tags": ["sim", "no signal", "hardware", "carrier"]
+  },
+  {
+    "articleId": "KB023",
+    "title": "Screen brightness does not adjust automatically",
+    "product": "Display",
+    "category": "Display",
+    "severity": "Low",
+    "content": "Auto-brightness relies on the ambient light sensor. It can fail if the sensor is covered, disabled, or the display calibration is off. Ask the user to uncover the sensor area, enable adaptive brightness, and recalibrate the display.",
+    "tags": ["brightness", "auto brightness", "ambient light sensor", "display"]
+  },
+  {
+    "articleId": "KB024",
+    "title": "Mobile gets very hot while charging",
+    "product": "Mobile Hardware",
+    "category": "Charging",
+    "severity": "Medium",
+    "content": "Excessive heat during charging can happen when using a non-certified charger, charging on a soft surface, or using the phone heavily while charging. Ask the user to use the original charger, charge on a hard flat surface, and avoid using the phone while charging.",
+    "tags": ["charging", "heating", "thermal", "charger"]
+  },
+  {
+    "articleId": "KB025",
+    "title": "Calls drop in the middle of a conversation",
+    "product": "Network",
+    "category": "Calls",
+    "severity": "High",
+    "content": "Call drops are usually caused by poor signal, VoLTE issues, or SIM problems. Ask the user to check signal strength, enable VoLTE if available, re-seat the SIM, and contact the carrier if the problem persists.",
+    "tags": ["call drop", "signal", "volte", "sim"]
+  },
+  {
+    "articleId": "KB026",
+    "title": "Wireless charging is not working",
+    "product": "Mobile Hardware",
+    "category": "Charging",
+    "severity": "Low",
+    "content": "Wireless charging can fail if the phone is misaligned on the pad, a thick case is blocking the coil, or wireless charging is disabled. Ask the user to remove the case, center the phone on the pad, and ensure wireless charging is turned on.",
+    "tags": ["wireless charging", "qi", "case", "charging pad"]
+  },
+  {
+    "articleId": "KB027",
+    "title": "App draining battery in background",
+    "product": "Mobile Apps",
+    "category": "Battery",
+    "severity": "Medium",
+    "content": "Background apps can drain battery by running location, sync, or refresh tasks. Ask the user to check battery usage stats, restrict background activity for the offending app, and consider disabling location access when not needed.",
+    "tags": ["battery drain", "background app", "location", "battery optimization"]
+  },
+  {
+    "articleId": "KB028",
+    "title": "Phone microphone not working during video calls",
+    "product": "Mobile Hardware",
+    "category": "Audio",
+    "severity": "High",
+    "content": "If the microphone works for regular calls but not video calls, the issue is likely app-level permission. Ask the user to check microphone permission for the video call app, restart the app, and test with another video call app to confirm.",
+    "tags": ["microphone", "video call", "permissions", "audio"]
+  },
+  {
+    "articleId": "KB029",
+    "title": "Display colors look washed out",
+    "product": "Display",
+    "category": "Display",
+    "severity": "Low",
+    "content": "Washed-out colors can occur when reading mode, night mode, or a low-saturation color profile is active. Ask the user to disable reading mode, check display color settings, and reset the color profile to the default vivid or natural mode.",
+    "tags": ["display", "colors", "reading mode", "night mode"]
+  },
+  {
+    "articleId": "KB030",
+    "title": "Phone does not vibrate for notifications",
+    "product": "Mobile OS",
+    "category": "Notifications",
+    "severity": "Low",
+    "content": "Missing vibration for notifications can be caused by vibration intensity set to zero, Do Not Disturb mode, or per-app notification settings. Ask the user to check vibration intensity, disable DND, and verify notification vibration is enabled for the specific app.",
+    "tags": ["vibration", "notifications", "do not disturb", "haptics"]
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "title": "iPhone 15 Pro",
+    "offers": [
+      { "retailer": "Apple Store", "type": "online", "priceInr": 134900, "availability": "in stock", "notes": "Eligible for trade-in" },
+      { "retailer": "Amazon India", "type": "online", "priceInr": 129900, "availability": "limited stock", "notes": "Bank discount available" },
+      { "retailer": "Reliance Digital", "type": "store", "priceInr": 132900, "availability": "in stock", "notes": "EMI available" }
+    ]
+  },
+  {
+    "title": "iPhone 15",
+    "offers": [
+      { "retailer": "Apple Store", "type": "online", "priceInr": 79900, "availability": "in stock", "notes": "Trade-in available" },
+      { "retailer": "Flipkart", "type": "online", "priceInr": 72999, "availability": "in stock", "notes": "Festival offer" },
+      { "retailer": "Croma", "type": "store", "priceInr": 76900, "availability": "in stock", "notes": "No-cost EMI" }
+    ]
+  },
+  {
+    "title": "Samsung Galaxy S24 Ultra",
+    "offers": [
+      { "retailer": "Samsung Store", "type": "online", "priceInr": 129999, "availability": "in stock", "notes": "Exchange bonus" },
+      { "retailer": "Amazon India", "type": "online", "priceInr": 124999, "availability": "in stock", "notes": "Card cashback" },
+      { "retailer": "Reliance Digital", "type": "store", "priceInr": 127999, "availability": "limited stock", "notes": "EMI available" }
+    ]
+  },
+  {
+    "title": "Samsung Galaxy S24",
+    "offers": [
+      { "retailer": "Samsung Store", "type": "online", "priceInr": 74999, "availability": "in stock", "notes": "Upgrade bonus" },
+      { "retailer": "Flipkart", "type": "online", "priceInr": 69999, "availability": "in stock", "notes": "Bank offer" },
+      { "retailer": "Croma", "type": "store", "priceInr": 72999, "availability": "in stock", "notes": "Store pickup" }
+    ]
+  },
+  {
+    "title": "Google Pixel 8 Pro",
+    "offers": [
+      { "retailer": "Flipkart", "type": "online", "priceInr": 99999, "availability": "in stock", "notes": "Bank discount" },
+      { "retailer": "Reliance Digital", "type": "store", "priceInr": 104999, "availability": "limited stock", "notes": "EMI available" }
+    ]
+  },
+  {
+    "title": "Google Pixel 8",
+    "offers": [
+      { "retailer": "Flipkart", "type": "online", "priceInr": 69999, "availability": "in stock", "notes": "Exchange available" },
+      { "retailer": "Croma", "type": "store", "priceInr": 72999, "availability": "in stock", "notes": "Store pickup" }
+    ]
+  },
+  {
+    "title": "OnePlus 12",
+    "offers": [
+      { "retailer": "OnePlus Store", "type": "online", "priceInr": 64999, "availability": "in stock", "notes": "Red Cable Club benefits" },
+      { "retailer": "Amazon India", "type": "online", "priceInr": 62999, "availability": "in stock", "notes": "Bank discount" }
+    ]
+  },
+  {
+    "title": "OnePlus 12R",
+    "offers": [
+      { "retailer": "OnePlus Store", "type": "online", "priceInr": 39999, "availability": "in stock", "notes": "Exchange bonus" },
+      { "retailer": "Amazon India", "type": "online", "priceInr": 37999, "availability": "in stock", "notes": "Coupon available" }
+    ]
+  },
+  {
+    "title": "Xiaomi 14",
+    "offers": [
+      { "retailer": "Mi Store", "type": "online", "priceInr": 69999, "availability": "in stock", "notes": "Exchange available" },
+      { "retailer": "Amazon India", "type": "online", "priceInr": 67999, "availability": "limited stock", "notes": "Bank discount" }
+    ]
+  },
+  {
+    "title": "Xiaomi Redmi Note 13 Pro+",
+    "offers": [
+      { "retailer": "Mi Store", "type": "online", "priceInr": 31999, "availability": "in stock", "notes": "Bundle offer" },
+      { "retailer": "Flipkart", "type": "online", "priceInr": 29999, "availability": "in stock", "notes": "Card offer" }
+    ]
+  },
+  {
+    "title": "Nothing Phone 2",
+    "offers": [
+      { "retailer": "Flipkart", "type": "online", "priceInr": 39999, "availability": "in stock", "notes": "Limited period discount" },
+      { "retailer": "Croma", "type": "store", "priceInr": 42999, "availability": "limited stock", "notes": "Store demo available" }
+    ]
+  },
+  {
+    "title": "Nothing Phone 2a",
+    "offers": [
+      { "retailer": "Flipkart", "type": "online", "priceInr": 23999, "availability": "in stock", "notes": "Launch offer" },
+      { "retailer": "Croma", "type": "store", "priceInr": 24999, "availability": "in stock", "notes": "EMI available" }
+    ]
+  },
+  {
+    "title": "Vivo X100 Pro",
+    "offers": [
+      { "retailer": "Vivo Store", "type": "online", "priceInr": 89999, "availability": "in stock", "notes": "Camera bundle" },
+      { "retailer": "Reliance Digital", "type": "store", "priceInr": 87999, "availability": "limited stock", "notes": "Exchange bonus" }
+    ]
+  },
+  {
+    "title": "Vivo V30 Pro",
+    "offers": [
+      { "retailer": "Vivo Store", "type": "online", "priceInr": 41999, "availability": "in stock", "notes": "No-cost EMI" },
+      { "retailer": "Flipkart", "type": "online", "priceInr": 39999, "availability": "in stock", "notes": "Bank offer" }
+    ]
+  },
+  {
+    "title": "Oppo Reno11 Pro",
+    "offers": [
+      { "retailer": "Oppo Store", "type": "online", "priceInr": 39999, "availability": "in stock", "notes": "Portrait bundle" },
+      { "retailer": "Croma", "type": "store", "priceInr": 38999, "availability": "in stock", "notes": "Store pickup" }
+    ]
+  },
+  {
+    "title": "Realme GT 6T",
+    "offers": [
+      { "retailer": "Realme Store", "type": "online", "priceInr": 30999, "availability": "in stock", "notes": "Gaming offer" },
+      { "retailer": "Amazon India", "type": "online", "priceInr": 29999, "availability": "in stock", "notes": "Coupon available" }
+    ]
+  },
+  {
+    "title": "Realme 12 Pro+",
+    "offers": [
+      { "retailer": "Realme Store", "type": "online", "priceInr": 29999, "availability": "in stock", "notes": "Exchange offer" },
+      { "retailer": "Flipkart", "type": "online", "priceInr": 28999, "availability": "in stock", "notes": "Card discount" }
+    ]
+  },
+  {
+    "title": "Motorola Edge 50 Pro",
+    "offers": [
+      { "retailer": "Motorola Store", "type": "online", "priceInr": 31999, "availability": "in stock", "notes": "Clean Android offer" },
+      { "retailer": "Flipkart", "type": "online", "priceInr": 30999, "availability": "in stock", "notes": "Bank discount" }
+    ]
+  },
+  {
+    "title": "Motorola Razr 40 Ultra",
+    "offers": [
+      { "retailer": "Motorola Store", "type": "online", "priceInr": 89999, "availability": "limited stock", "notes": "Foldable offer" },
+      { "retailer": "Reliance Digital", "type": "store", "priceInr": 87999, "availability": "limited stock", "notes": "Store demo available" }
+    ]
+  },
+  {
+    "title": "Samsung Galaxy Z Fold5",
+    "offers": [
+      { "retailer": "Samsung Store", "type": "online", "priceInr": 154999, "availability": "in stock", "notes": "Upgrade bonus" },
+      { "retailer": "Amazon India", "type": "online", "priceInr": 149999, "availability": "limited stock", "notes": "Bank cashback" }
+    ]
+  },
+  {
+    "title": "Samsung Galaxy Z Flip5",
+    "offers": [
+      { "retailer": "Samsung Store", "type": "online", "priceInr": 99999, "availability": "in stock", "notes": "Exchange bonus" },
+      { "retailer": "Flipkart", "type": "online", "priceInr": 94999, "availability": "in stock", "notes": "Card discount" }
+    ]
+  },
+  {
+    "title": "Asus ROG Phone 8 Pro",
+    "offers": [
+      { "retailer": "Asus Store", "type": "online", "priceInr": 94999, "availability": "limited stock", "notes": "Gaming accessory bundle" },
+      { "retailer": "Amazon India", "type": "online", "priceInr": 92999, "availability": "limited stock", "notes": "Gaming offer" }
+    ]
+  },
+  {
+    "title": "iQOO 12",
+    "offers": [
+      { "retailer": "iQOO Store", "type": "online", "priceInr": 52999, "availability": "in stock", "notes": "Performance bundle" },
+      { "retailer": "Amazon India", "type": "online", "priceInr": 50999, "availability": "in stock", "notes": "Coupon available" }
+    ]
+  },
+  {
+    "title": "iQOO Neo 9 Pro",
+    "offers": [
+      { "retailer": "iQOO Store", "type": "online", "priceInr": 36999, "availability": "in stock", "notes": "Gaming offer" },
+      { "retailer": "Amazon India", "type": "online", "priceInr": 34999, "availability": "in stock", "notes": "Bank discount" }
+    ]
+  },
+  {
+    "title": "Poco X6 Pro",
+    "offers": [
+      { "retailer": "Flipkart", "type": "online", "priceInr": 26999, "availability": "in stock", "notes": "Student-friendly offer" },
+      { "retailer": "Mi Store", "type": "online", "priceInr": 27999, "availability": "in stock", "notes": "Exchange available" }
+    ]
+  },
+  {
+    "title": "Samsung Galaxy A55",
+    "offers": [
+      { "retailer": "Samsung Store", "type": "online", "priceInr": 39999, "availability": "in stock", "notes": "Upgrade bonus" },
+      { "retailer": "Croma", "type": "store", "priceInr": 38999, "availability": "in stock", "notes": "Store pickup" }
+    ]
+  },
+  {
+    "title": "Samsung Galaxy M55",
+    "offers": [
+      { "retailer": "Amazon India", "type": "online", "priceInr": 26999, "availability": "in stock", "notes": "Bank discount" },
+      { "retailer": "Samsung Store", "type": "online", "priceInr": 27999, "availability": "in stock", "notes": "Exchange available" }
+    ]
+  },
+  {
+    "title": "OnePlus Nord CE4",
+    "offers": [
+      { "retailer": "OnePlus Store", "type": "online", "priceInr": 24999, "availability": "in stock", "notes": "Student offer" },
+      { "retailer": "Amazon India", "type": "online", "priceInr": 23999, "availability": "in stock", "notes": "Coupon available" }
+    ]
+  },
+  {
+    "title": "Redmi 13C 5G",
+    "offers": [
+      { "retailer": "Mi Store", "type": "online", "priceInr": 10999, "availability": "in stock", "notes": "Budget 5G offer" },
+      { "retailer": "Amazon India", "type": "online", "priceInr": 9999, "availability": "in stock", "notes": "Entry-level deal" }
+    ]
+  },
+  {
+    "title": "Moto G64 5G",
+    "offers": [
+      { "retailer": "Motorola Store", "type": "online", "priceInr": 14999, "availability": "in stock", "notes": "Battery-focused offer" },
+      { "retailer": "Flipkart", "type": "online", "priceInr": 13999, "availability": "in stock", "notes": "Bank discount" }
+    ]
+  }
+]
